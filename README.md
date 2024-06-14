@@ -1,1 +1,1 @@
-# jquery-study
+# s-jquery
